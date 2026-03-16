@@ -91,3 +91,5 @@ pred_mat = sum([
 ]).detach().cpu().numpy()
 
 ```
+
+#### Note: You can also replace the corresponding files in the data folder with your own data for training and prediction.
